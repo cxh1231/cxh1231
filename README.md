@@ -1,12 +1,8 @@
 ## 你好，欢迎访问我的 GitHub，希望我的项目能帮助到你 \^_\^
 
-道阻且长，行则将至；
+> **注：本仓库更多的是做双重备份使用。更多项目，请访问 [https://gitee.com/cxh1231](https://gitee.com/cxh1231)**
 
-行而不辍，未来可期。
-
-> 注：本仓库更多的是做双重备份使用。更多项目，请访问 [https://gitee.com/cxh1231](https://gitee.com/cxh1231)
-
-### 开源项目
+### 主要开源项目
 
 [![ExciteCMS-Layui](https://github-readme-stats.vercel.app/api/pin/?username=cxh1231&repo=ExciteCMS-SpringBoot-Layui)](https://github.com/cxh1231/ExciteCMS-SpringBoot-Layui)
 
