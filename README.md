@@ -1,22 +1,7 @@
-### Hi there 👋
+## 你好，欢迎访问我的 GitHub，希望我的项目能帮助到你 ^_^ 😄
 
-本仓库更多的是做双重备份使用。
-
-更多项目，请访问 [https://gitee.com/cxh1231](https://gitee.com/cxh1231)
+> 另外，本仓库更多的是做双重备份使用。
+>
+> 更多项目，请访问 [https://gitee.com/cxh1231](https://gitee.com/cxh1231)
 
 ![](https://github-readme-stats.vercel.app/api?username=cxh1231)
-
-<!--
-**cxh1231/cxh1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
